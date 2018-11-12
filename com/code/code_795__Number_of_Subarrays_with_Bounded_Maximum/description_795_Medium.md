@@ -1,0 +1,26 @@
+##[795.Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/ "795.Number of Subarrays with Bounded Maximum")
+######Difficulty:Medium
+####Similiar Topics:
+  [Array](https://leetcode.com//tag/array)
+####Similiar Problems:
+
+<div class="question-description__3U1T" style="padding-top: 10px;"><div><p>We are given an array <code>A</code> of positive integers, and two positive integers <code>L</code> and <code>R</code> (<code>L &lt;= R</code>).</p>
+
+<p>Return the number of (contiguous, non-empty) subarrays such that the value of the maximum array element in that subarray is at least <code>L</code> and at most <code>R</code>.</p>
+
+<pre><strong>Example :</strong>
+<strong>Input:</strong> 
+A = [2, 1, 4, 3]
+L = 2
+R = 3
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> There are three subarrays that meet the requirements: [2], [2, 1], [3].
+</pre>
+
+<p><strong>Note:</strong></p>
+
+<ul>
+	<li>L, R&#160; and <code>A[i]</code> will be an integer in the range <code>[0, 10^9]</code>.</li>
+	<li>The length of <code>A</code> will be in the range of <code>[1, 50000]</code>.</li>
+</ul>
+</div></div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div><div> </div>

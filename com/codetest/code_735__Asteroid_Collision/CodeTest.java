@@ -1,0 +1,35 @@
+
+package lee.codetest.code_735__Asteroid_Collision;
+
+import org.junit.Test;
+/**
+ testcase:[5,10,-5]
+*/
+public class CodeTest
+{
+    @Test
+    public void testSolution() throws Exception
+    {
+        //new Solution()
+		lee.code.code_735__Asteroid_Collision.C735_MainClass.main(null);;
+    }
+}
+/**
+* 
+* 
+* 735.Asteroid Collision
+* 
+* difficulty: Medium
+* @see https://leetcode.com/problems/asteroid-collision/description/
+* @see description_735.md
+* @Similiar Topics
+*     -->Stack https://leetcode.com//tag/stack
+* @Similiar Problems
+*     -->Can Place Flowers https://leetcode.com//problems/can-place-flowers
+* Run solution from Unit Test: 
+* @see  lee.codetest.code_735__Asteroid_Collision.CodeTest
+* Run solution from Main Judge Class: 
+* @see  lee.code.code_735__Asteroid_Collision.C735_MainClass
+* 
+*/
+

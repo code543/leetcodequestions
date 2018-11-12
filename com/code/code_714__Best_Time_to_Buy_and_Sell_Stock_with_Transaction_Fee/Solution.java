@@ -1,0 +1,40 @@
+package lee.code.code_714__Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee;
+
+
+import java.util.*;
+import lee.util.*;
+
+/**
+* 
+* 
+* 714.Best Time to Buy and Sell Stock with Transaction Fee
+* 
+* difficulty: Medium
+* @see https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
+* @see description_714.md
+* @Similiar Topics
+*     -->Greedy https://leetcode.com//tag/greedy
+*     -->Dynamic Programming https://leetcode.com//tag/dynamic-programming
+*     -->Array https://leetcode.com//tag/array
+* @Similiar Problems
+*     -->Best Time to Buy and Sell Stock II https://leetcode.com//problems/best-time-to-buy-and-sell-stock-ii
+* Run solution from Unit Test: 
+* @see  lee.codetest.code_714__Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.CodeTest
+* Run solution from Main Judge Class: 
+* @see  lee.code.code_714__Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.C714_MainClass
+* 
+*/
+class Solution {
+    public int maxProfit(int[] prices, int fee) {
+        return 0;
+        
+    }
+}
+
+
+class Main1 {
+    public static void main(String[] args) {
+        //new Solution();
+    }
+}                
+                
