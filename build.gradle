@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group 'com.lee'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+sourceSets {
+    main
+    {
+        java
+        {
+            srcDir 'src/main'
+        }
+    }
+}
+
+
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.eclipsesource.minimal-json', name: 'minimal-json', version: '0.9.1'
+}
+
